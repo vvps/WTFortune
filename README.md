@@ -3,6 +3,9 @@ A program written in C++ on wxWidgets to display random fortune cookies for Wind
 
 It is similar to 'Wanda the Fish' program on Gnome. 
 
+I had also hosted this program on Sourceforge in 2011!
+http://sourceforge.net/projects/wtfortune/
+
 The fortunes were taken from 
 http://packages.debian.org/squeeze/all/fortunes-min/filelist.
 
